@@ -1,0 +1,10 @@
+{
+  "name": "js-course",
+  "version": "1.0.0",
+  "main": "lib/formatDate/formatDate.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {}
+}
